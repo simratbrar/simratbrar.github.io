@@ -1,0 +1,43 @@
+.navitem{
+  color : #F1FAEE;
+  font-family: 'Roboto Mono', monospace;
+  font-size: 20px;
+}
+body{
+  /* display: none; */
+}
+.bottomnav{
+  font-family: 'Saira Extra Condensed', sans-serif;
+  font-size: 14px;
+  color : #F1FAEE;
+  border: 5px solid #1D3557;
+}
+#hello{
+  color: #E63946;
+  font-family: 'Comfortaa', cursive;
+  /* font-family: 'Amatic SC', cursive; */
+}
+.whatido{
+  color : #F1FAEE;
+}
+.whereibeen{
+  color : #F1FAEE;
+}
+p{
+font-family: 'Comfortaa', cursive;
+}
+.primaryjumbotron{
+  font-family: 'Comfortaa', cursive;
+  color: #1D3557;
+  display: none;
+}
+.hiddenjumbotron1{
+  font-family: 'Comfortaa', cursive;
+  color: #1D3557;
+  display: none;
+}
+.hiddenjumbotron2{
+  font-family: 'Comfortaa', cursive;
+  color: #1D3557;
+  display: none;
+}
